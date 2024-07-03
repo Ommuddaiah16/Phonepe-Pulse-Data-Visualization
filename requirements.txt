@@ -6,3 +6,4 @@ joblib
 matplotlib
 plotly
 mysql-connector-python
+sqlalchemy
