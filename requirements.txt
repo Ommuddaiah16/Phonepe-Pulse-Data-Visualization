@@ -6,3 +6,4 @@ matplotlib
 plotly
 mysql-connector-python
 sqlalchemy
+catboost
